@@ -23,7 +23,8 @@ HASIL PENGERJAAN
 untuk melihat hasil pengerjaan dapat langsung membuka Script.ipynb di 'stock_portofolio/Stock/'
 
 
-- - - - ENGLISH - - - - -
+ENGLISH VERSION
+
 DATA SCIENTIST WORKING PRE-TEST
 
 This Data Science project is an assignment I completed as a pre-test to determine the most profitable stocks over the last 3 months, 1 year, and 5 years, as well as identifying the safest stock.
