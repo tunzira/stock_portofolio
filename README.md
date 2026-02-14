@@ -11,7 +11,6 @@ Close_terakhir = Harga terakhir saham pada saat penutupan
 Close_awal = Harga awal saham pada saat awal pembelian
 
 
-
 PROJECT STRUCTURE
 Project ini terdiri dari beberapa data:
 - Data: terdiri dari dara .csv setiap Stcok yang diberikan
@@ -22,3 +21,29 @@ Project ini terdiri dari beberapa data:
 
 HASIL PENGERJAAN
 untuk melihat hasil pengerjaan dapat langsung membuka Script.ipynb di 'stock_portofolio/Stock/'
+
+
+- - - - ENGLISH - - - - -
+DATA SCIENTIST WORKING PRE-TEST
+
+This Data Science project is an assignment I completed as a pre-test to determine the most profitable stocks over the last 3 months, 1 year, and 5 years, as well as identifying the safest stock.
+
+The formula I used:
+
+Return = (Close_last / Close_initial) − 1
+
+Where:
+Close_last = The latest stock closing price
+Close_initial = The stock price at the beginning of the purchase period
+
+
+PROJECT STRUCTURE
+This project consists of several components:
+- Data: Contains .csv files for each stock provided
+- Notebooks: Jupyter notebooks for Data Preparation, Data Cleaning, Data Preprocessing, Calculation & Conclusion, and Data Visualization
+- Python version: 3.11.0
+- README.md: Explanation of the assignment and other details
+
+RESULTS
+To see the project results, you can directly open Script.ipynb in the directory:
+stock_portofolio/Stock/
